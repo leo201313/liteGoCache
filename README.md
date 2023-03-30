@@ -1,2 +1,2 @@
 # liteGoCache
-A lightweight implementation of Gocache
+A lightweight implementation of GoCache
